@@ -1,0 +1,7 @@
+# Don't track these
+venv/
+.DS_Store
+__pycache__/
+*.pyc
+*.png
+*.csv
