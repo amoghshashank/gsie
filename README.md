@@ -105,19 +105,7 @@ Research collaboration
 Adding features / scaling
 
 📧 amoghshashank@gmail.com
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/amoghshashank)
 
 🪪 License
 This project is licensed under the MIT License — see the LICENSE file for details.
-
-yaml
-Copy
-Edit
-
----
-
-### ✅ Next Step:
-Copy this into your `README.md` locally:
-
-```bash
-nano README.md
